@@ -1,0 +1,5 @@
+Transaction ID,User ID,Book ID,Issue Date,Return Date,Status,Penalty,Reissue Count
+1,1,86,2025-10-28,,Issued,0,0
+2,1,2,2025-10-28,2025-10-28,Returned,0,0
+3,1,374,2025-10-28,,Issued,0,0
+4,1,2,2025-10-28,,Issued,0,0
